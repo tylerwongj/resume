@@ -1,0 +1,141 @@
+
+Experience
+
+TruPlay Games logo
+Unity Platform Engineer
+Unity Platform Engineer
+TruPlay GamesTruPlay Games
+Aug 2023 - Present · 2 yrsAug 2023 to Present · 2 yrs
+Responsibilities:
+• Innovate and implement new game mechanics and features, translating written and verbal requirements into compelling gameplay experiences.
+• Draft comprehensive, actionable specifications for new game mechanics and features.
+• Collaborate effectively with the User Testing Team to test, refine, and iterate gameplay mechanics.
+• Continually identify opportunities for innovation and enhancement of player experience.
+• Respectfully balance player comfort and game performance in the development and implementation of new game features and services.
+• Work closely with project content teams to ensure seamless integration of new game features.
+• Proactively improve existing game features in response to design requests.
+• Author thorough technical design documents for both milestones and internal use.
+Responsibilities: • Innovate and implement new game mechanics and features, translating written and verbal requirements into compelling gameplay experiences. • Draft comprehensive, actionable specifications for new game mechanics and features. • Collaborate effectively with the User Testing Team to test, refine, and iterate gameplay mechanics. • Continually identify opportunities for innovation and enhancement of player experience. • Respectfully balance player comfort and game performance in the development and implementation of new game features and services. • Work closely with project content teams to ensure seamless integration of new game features. • Proactively improve existing game features in response to design requests. • Author thorough technical design documents for both milestones and internal use.
+
+TruPlay | Play In the LightTruPlay | Play In the Light
+A company with a mission to transform generations of children in such a profound way that it will shape culture.A company with a mission to transform generations of children in such a profound way that it will shape culture.
+Self Employed logo
+Unity Developer
+Unity Developer
+Tyler Wong Game Studios · Self-employedTyler Wong Game Studios · Self-employed
+Oct 2018 - Present · 6 yrs 10 mosOct 2018 to Present · 6 yrs 10 mos
+Developing Hypercasual Mobile Games for iOS and Android
+Partnered with publishers to reach audiences in the mobile game market.
+
+Titles Include:
+- Puzzle Split - Hypercasual Grid Based Puzzle Game - 22.4% D7 Retention
+- Car Fall 3D - Hypercasual Runner - 3,000+ Downloads
+- Burn - Destructible Art - A Simple Art Tool
+- Run Pom Run - Hypercasual Endless Runner
+
+(tylerwongj.com for more info)
+Developing Hypercasual Mobile Games for iOS and Android Partnered with publishers to reach audiences in the mobile game market. Titles Include: - Puzzle Split - Hypercasual Grid Based Puzzle Game - 22.4% D7 Retention - Car Fall 3D - Hypercasual Runner - 3,000+ Downloads - Burn - Destructible Art - A Simple Art Tool - Run Pom Run - Hypercasual Endless Runner (tylerwongj.com for more info)
+
+Puzzle Split - Apps on Google PlayPuzzle Split - Apps on Google Play
+Control multiple players to cross every path. Can you figure out how to fill all the roads and use more than one player to do so? Features: - Free to play - Handmade levels - Multiple-Player control Icons by icons8.com.Control multiple players to cross every path. Can you figure out how to fill all the roads and use more than one player to do so? Features: - Free to play - Handmade levels - Multiple-Player control Icons by icons8.com.
+
+Burn - Destructible Art - Apps on Google PlayBurn - Destructible Art - Apps on Google Play
+Wish you could doodle for 10 seconds and then have the art self-destruct? Minimalistic app with one goal to allow you to draw away! Select the time till self-destruct: - 10 seconds - 30 seconds - 60 secondsWish you could doodle for 10 seconds and then have the art self-destruct? Minimalistic app with one goal to allow you to draw away! Select the time till self-destruct: - 10 seconds - 30 seconds - 60 seconds
+
+Car Fall 3D - Apps on Google PlayCar Fall 3D - Apps on Google Play
+Steer your car to the finish line. And... Falling can be both good and bad? Will you make it through the platforms and obstacles? Features: - Free to play - Handmade levels - Beginner-Friendly - Looking to expand for the future Icons by icons8.com.Steer your car to the finish line. And... Falling can be both good and bad? Will you make it through the platforms and obstacles? Features: - Free to play - Handmade levels - Beginner-Friendly - Looking to expand for the future Icons by icons8.com.
+Show all 4 media
+Tic Toc Games logo
+Game Engineer
+Game Engineer
+Tic Toc Games · Full-timeTic Toc Games · Full-time
+Aug 2020 - Jan 2023 · 2 yrs 6 mosAug 2020 to Jan 2023 · 2 yrs 6 mos
+Burbank, California, United StatesBurbank, California, United States
+Adding features and bug fixing for Unity gameplay
+ - Creating new prefabs/objects
+ - VFX/SFX
+ - Performance - optimization of frames and RAM
+
+Creation of Various tools - Web Portals / Databases
+ - Tools to edit player data
+ - Tools for gameplay
+ - Tools for balancing economy
+ - Tools to add and publish new content to games
+ - Tools to schedule in-game events
+
+Integrating SDKs
+
+Working on internal libraries
+Adding features and bug fixing for Unity gameplay - Creating new prefabs/objects - VFX/SFX - Performance - optimization of frames and RAM Creation of Various tools - Web Portals / Databases - Tools to edit player data - Tools for gameplay - Tools for balancing economy - Tools to add and publish new content to games - Tools to schedule in-game events Integrating SDKs Working on internal libraries
+
+Tic Toc Games | An Independent Game Studio Founded 2011Tic Toc Games | An Independent Game Studio Founded 2011
+Tic Toc Games is an independent game studio in Burbank, California, with experience in original and franchise mobile and console games.Tic Toc Games is an independent game studio in Burbank, California, with experience in original and franchise mobile and console games.
+Beach Day Studios logo
+Unity Developer
+Unity Developer
+Beach Day StudiosBeach Day Studios
+Jan 2020 - Apr 2020 · 4 mosJan 2020 to Apr 2020 · 4 mos
+Game Developer for a Hypercasual Mobile Game startup that is seeking to be at the forefront of Unity XR experiences, alongside teaching young students how to program.
+
+Proposed and Designed 12+ Hypercasual Games
+
+Development work on 5 Hypercasual Games:
+- Developed several game mechanics: push game mechanic w/ Rigidbodies, touch drag mechanic allowing for pins to move from their location via swipe, explosive objects which break walls
+- Developed and designed animatable objects using DOTween: collectible stars, swinging blade traps, pins, push lawn mower object
+- Developed custom Dynamic Joystick with Custom Editor
+- Modularized Unity UI Elements to reuse Menu Code in several locations
+- Reworked and refactored project code base to switch design: upgrade process to URP, refactored project from infinite to finite levels
+- Designed objects using Blender: 3D finish cup, 3D rocks
+- Designed levels for a puzzle game
+- Implemented Unity's Landscape Tools to build background mountain landscape.
+- Designed and developed Level Management System to save/load and manage current level and future levels.
+
+Games:
+1) Runner Game w/ Infinite Levels
+2) Exploration Game to Collect All Items
+3) Battle Game - Defeat A Horde of Enemies with a Push Mechanic
+4) Top-Down Game - Pull Out Pins to Release Objects to Get to the Goal
+5) Top-Down Game - Mountain Rock Collection Puzzle Game
+
+(tylerwongj.com for more info)
+Game Developer for a Hypercasual Mobile Game startup that is seeking to be at the forefront of Unity XR experiences, alongside teaching young students how to program. Proposed and Designed 12+ Hypercasual Games Development work on 5 Hypercasual Games: - Developed several game mechanics: push game mechanic w/ Rigidbodies, touch drag mechanic allowing for pins to move from their location via swipe, explosive objects which break walls - Developed and designed animatable objects using DOTween: collectible stars, swinging blade traps, pins, push lawn mower object - Developed custom Dynamic Joystick with Custom Editor - Modularized Unity UI Elements to reuse Menu Code in several locations - Reworked and refactored project code base to switch design: upgrade process to URP, refactored project from infinite to finite levels - Designed objects using Blender: 3D finish cup, 3D rocks - Designed levels for a puzzle game - Implemented Unity's Landscape Tools to build background mountain landscape. - Designed and developed Level Management System to save/load and manage current level and future levels. Games: 1) Runner Game w/ Infinite Levels 2) Exploration Game to Collect All Items 3) Battle Game - Defeat A Horde of Enemies with a Push Mechanic 4) Top-Down Game - Pull Out Pins to Release Objects to Get to the Goal 5) Top-Down Game - Mountain Rock Collection Puzzle Game (tylerwongj.com for more info)
+
+HomeHome
+Beach Day Studios makes impactful, purposeful, innovative games and educational content for mobile and xr.Beach Day Studios makes impactful, purposeful, innovative games and educational content for mobile and xr.
+Liferay logo
+Software Consultant
+Software Consultant
+Liferay, IncLiferay, Inc
+May 2015 - Jan 2019 · 3 yrs 9 mosMay 2015 to Jan 2019 · 3 yrs 9 mos
+Diamond Bar, CADiamond Bar, CA
+Developed Frontend Framework (with technologies below) for over 20+ Projects – 15+ External Client Projects (10 Full-Lifecycle, 5 Proof-of-Concept), 8+ Internal, 2+ Training
+
+Flew over 4 times for On-site Client Projects as Subject Matter Expert (Minneapolis, MA; Worcestor, MA; Kansas City, KA; Midtown, GA)
+
+Implementation and involvement in a wide variety of Companies in the fields of: Software Tech, Hardware, Retail, Wholesale, Professional Sports, Clothing & Fashion, Video Game Industries, Building Materials, Packaging, Financial Services, Banks, Health Networks, Schools, and Consulting
+
+Day-to-day working in an Agile SDLC, communicating with various personnel: Stakeholders, PM’s, PO’s, BA’s, client-side/internal Developers, Designers, Artists, Trainers/Trainees, Sales
+
+Team sizes ranging from 5-15 people.
+
+Active Participant in social welfare of others through Liferay’s Employee Volunteer Program (Arizona Native American Welfare Trip; Operation Christmas Child; Solidarity non-profit)
+
+(tylerwongj.com - for more info)
+Developed Frontend Framework (with technologies below) for over 20+ Projects – 15+ External Client Projects (10 Full-Lifecycle, 5 Proof-of-Concept), 8+ Internal, 2+ Training Flew over 4 times for On-site Client Projects as Subject Matter Expert (Minneapolis, MA; Worcestor, MA; Kansas City, KA; Midtown, GA) Implementation and involvement in a wide variety of Companies in the fields of: Software Tech, Hardware, Retail, Wholesale, Professional Sports, Clothing & Fashion, Video Game Industries, Building Materials, Packaging, Financial Services, Banks, Health Networks, Schools, and Consulting Day-to-day working in an Agile SDLC, communicating with various personnel: Stakeholders, PM’s, PO’s, BA’s, client-side/internal Developers, Designers, Artists, Trainers/Trainees, Sales Team sizes ranging from 5-15 people. Active Participant in social welfare of others through Liferay’s Employee Volunteer Program (Arizona Native American Welfare Trip; Operation Christmas Child; Solidarity non-profit) (tylerwongj.com - for more info)
+
+Digital Experience Software Tailored to Your Needs | LiferayDigital Experience Software Tailored to Your Needs | Liferay
+Build portals, intranets, websites and connected experiences on the most extensible digital experience platform around. Learn more.Build portals, intranets, websites and connected experiences on the most extensible digital experience platform around. Learn more.
+Square Room Escape logo
+Web Developer
+Web Developer
+Square Room EscapeSquare Room Escape
+Sep 2014 - May 2015 · 9 mosSep 2014 to May 2015 · 9 mos
+Irvine, CAIrvine, CA
+Designed squareroomescape.com (HTML/CSS/JS) a website using WordPress framework (PHP) for a small business with custom development (Scheduling, User Management).
+
+Researched multiple options (WordPress plugins, 3rd party applications) to maximize efficiency and usability for the user experience.
+
+Set up WAMP Server (Windows, Apache, MySQL, PHP) local development environment, integrated with source control (Bitbucket) to allow for pre-production quality assurance testing.
+Designed squareroomescape.com (HTML/CSS/JS) a website using WordPress framework (PHP) for a small business with custom development (Scheduling, User Management). Researched multiple options (WordPress plugins, 3rd party applications) to maximize efficiency and usability for the user experience. Set up WAMP Server (Windows, Apache, MySQL, PHP) local development environment, integrated with source control (Bitbucket) to allow for pre-production quality assurance testing.
+Square Room Escape | Locations in Irvine & AnaheimSquare Room Escape | Locations in Irvine & Anaheim
+The first premiere escape room in Irvine that has since expanded to Anaheim. Fun and family-friendly themes include Undercooked, Sorcerer's Study, Wonderland and The Try-Wizard Tournament.The first premiere escape room in Irvine that has since expanded to Anaheim. Fun and family-friendly themes include Undercooked, Sorcerer's Study, Wonderland and The Try-Wizard Tournament.

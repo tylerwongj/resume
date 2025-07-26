@@ -36,12 +36,12 @@ A hypercasual runner game where players navigate falling cars through obstacles.
 "Navigate falling cars through challenging obstacles in this addictive hypercasual runner!"
 
 ## Screenshots
-*Note: Screenshots are available in the website carousel - images can be found in `/Users/tyler/p2/website/img/CarFall3D/screenshots/`*
+*Screenshots available: 8 images (1.png through 8.png)*
 
 ## Assets Location
-- **Logo:** `/Users/tyler/p2/website/img/CarFall3D/Logo.png`
-- **Feature Graphic:** `/Users/tyler/p2/website/img/CarFall3D/Feature Graphic.png`
-- **Screenshots:** `/Users/tyler/p2/website/img/CarFall3D/screenshots/` (multiple images available)
+- **Logo:** `/Users/tyler/p2/resume/assets/images/CarFall3D/Logo.png`
+- **Feature Graphic:** `/Users/tyler/p2/resume/assets/images/CarFall3D/Feature Graphic.png`
+- **Screenshots:** `/Users/tyler/p2/resume/assets/images/CarFall3D/screenshots/` (1.png through 8.png)
 
 ## Professional Context
 This project demonstrates:

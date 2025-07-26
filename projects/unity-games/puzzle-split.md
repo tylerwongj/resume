@@ -36,12 +36,12 @@ Multi-Control Puzzle Game where players control multiple characters simultaneous
 "Control multiple players to cross every path. Can you figure out how to fill all the roads and use more than one player to do so?"
 
 ## Screenshots
-*Note: Screenshots are available in the website carousel - images can be found in `/Users/tyler/p2/website/img/PuzzleSplit/screenshots/` (8 images total)*
+*Screenshots available: 8 images (1.png through 8.png)*
 
 ## Assets Location
-- **Logo:** `/Users/tyler/p2/website/img/PuzzleSplit/Logo.png`
-- **Feature Graphic:** `/Users/tyler/p2/website/img/PuzzleSplit/Feature Graphic.png`
-- **Screenshots:** `/Users/tyler/p2/website/img/PuzzleSplit/screenshots/` (1.png through 8.png)
+- **Logo:** `/Users/tyler/p2/resume/assets/images/PuzzleSplit/Logo.png`
+- **Feature Graphic:** `/Users/tyler/p2/resume/assets/images/PuzzleSplit/Feature Graphic.png`
+- **Screenshots:** `/Users/tyler/p2/resume/assets/images/PuzzleSplit/screenshots/` (1.png through 8.png)
 
 ## Professional Context
 This project was highlighted in professional experience as:

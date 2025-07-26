@@ -35,7 +35,12 @@ A simple art tool that allows users to create and destroy digital art in an inte
 "Create and destroy digital art in this simple, therapeutic creative tool."
 
 ## Screenshots
-*Note: Screenshots and assets may be available in website portfolio*
+*Screenshots available: 8 images (1.png through 8.png)*
+
+## Assets Location
+- **Logo:** `/Users/tyler/p2/resume/assets/images/Burn/Logo.png`
+- **Feature Graphic:** `/Users/tyler/p2/resume/assets/images/Burn/Feature Graphic.png`
+- **Screenshots:** `/Users/tyler/p2/resume/assets/images/Burn/screenshots/` (1.png through 8.png)
 
 ## Professional Context
 This project demonstrates:

@@ -37,7 +37,12 @@ A hypercasual endless runner featuring a character named "Pom" navigating throug
 "Help Pom run as far as possible in this addictive endless runner adventure!"
 
 ## Screenshots
-*Note: Screenshots and promotional materials may be available in website portfolio*
+*Screenshots available: 5 images (1.png through 5.png)*
+
+## Assets Location
+- **Logo:** `/Users/tyler/p2/resume/assets/images/RunPomRun/Logo.png`
+- **Feature Graphic:** `/Users/tyler/p2/resume/assets/images/RunPomRun/Feature Graphic.png`
+- **Screenshots:** `/Users/tyler/p2/resume/assets/images/RunPomRun/screenshots/` (1.png through 5.png)
 
 ## Professional Context
 This project demonstrates:

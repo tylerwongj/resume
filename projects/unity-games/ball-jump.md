@@ -18,8 +18,18 @@ A hypercasual jumping game where players control a ball navigating through vario
 - Arcade-style gameplay
 
 ## Performance Metrics
+- Published on Google Play Store and Apple App Store
+- App removed from stores (no longer available for download)
 - Part of Tyler Wong's hypercasual game portfolio
-- Developed during active game publishing period (2020)
+
+## Links & Media
+- **Google Play Store:** https://play.google.com/store/apps/details?id=com.tylerwongj.balljump *(No longer available)*
+- **Apple App Store:** *Was available on iOS (removed)*
+
+## Wayback Machine Archives
+- **Wayback Machine Search:** https://web.archive.org/web/*/https://play.google.com/store/apps/details?id=com.tylerwongj.balljump
+- **Archive Status:** No archived snapshots found
+- **Data Source:** No metrics available - app was never successfully archived by Wayback Machine
 
 ## Technical Implementation
 - Built using Unity 3D engine
@@ -31,6 +41,10 @@ A hypercasual jumping game where players control a ball navigating through vario
 
 ## Marketing Description
 "Guide the ball through challenging platforms with perfect timing and precision!"
+
+## Assets Location
+- **Logo:** Available in assets folder
+- **Feature Graphic:** Available in assets folder
 
 ## Professional Context
 This project demonstrates:

@@ -17,13 +17,20 @@ Multi-Control Puzzle Game where players control multiple characters simultaneous
 - Looking to expand for the future
 
 ## Performance Metrics
+- **10+ Downloads** on Google Play Store (archived April 1, 2022)
 - **22.4% D7 Retention Rate** (7-day retention)
+- **15MB Download Size**, Version 1.0.0
 - Available on both iOS and Android platforms
 
 ## Links & Media
 - **YouTube Trailer:** https://www.youtube.com/watch?v=pSsod8BzXmg
 - **Google Play Store:** https://play.google.com/store/apps/details?id=com.tylerwongj.puzzlesplit
 - **Apple App Store:** https://apps.apple.com/app/id1514879403
+
+## Wayback Machine Archives
+- **Archived Google Play Store Page:** https://web.archive.org/web/20220401234423/https://play.google.com/store/apps/details?id=com.tylerwongj.puzzlesplit
+- **Archive Date:** April 1, 2022
+- **Data Source:** Wayback Machine historical snapshot used for performance metrics
 
 ## Technical Implementation
 - Built using Unity 3D engine

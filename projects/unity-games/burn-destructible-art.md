@@ -17,12 +17,21 @@ A simple art tool that allows users to create and destroy digital art in an inte
 - Relaxing/therapeutic gameplay
 
 ## Performance Metrics
-- Published on mobile platforms
-- Part of Tyler Wong's published game portfolio
+- **10+ Downloads** on Google Play Store (archived March 10, 2022)
+- **11MB Download Size**, Version 1
+- **Updated:** September 11, 2019
+- **Category:** Art & Design
+- Published on both Google Play Store and Apple App Store
 
 ## Links & Media
-- **Available on Mobile Stores:** Published on Google Play and Apple App Store
+- **Google Play Store:** https://play.google.com/store/apps/details?id=com.tylerwongj.burn
+- **Apple App Store:** *Available on iOS*
 - **Part of Unity Games Portfolio:** Featured in professional game development experience
+
+## Wayback Machine Archives
+- **Archived Google Play Store Page:** https://web.archive.org/web/20220310154014/https://play.google.com/store/apps/details?id=com.tylerwongj.burn
+- **Archive Date:** March 10, 2022
+- **Data Source:** Wayback Machine historical snapshot used for performance metrics
 
 ## Technical Implementation
 - Built using Unity 3D engine

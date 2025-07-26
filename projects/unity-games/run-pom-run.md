@@ -18,12 +18,21 @@ A hypercasual endless runner featuring a character named "Pom" navigating throug
 - Addictive score-based progression
 
 ## Performance Metrics
-- Published on mobile platforms
-- Part of Tyler Wong's successful hypercasual game portfolio
+- Published on Google Play Store and Apple App Store
+- App removed from stores (no longer available for download)
+- Part of Tyler Wong's hypercasual game portfolio
 
 ## Links & Media
-- **Available on Mobile Stores:** Published on Google Play and Apple App Store
+- **Google Play Store:** https://play.google.com/store/apps/details?id=com.tylerwongj.RunPomRun *(No longer available)*
+- **Apple App Store:** *Was available on iOS (removed)*
 - **Part of Unity Games Portfolio:** Featured in professional game development experience
+
+## Wayback Machine Archives
+- **Wayback Machine Search:** https://web.archive.org/web/*/https://play.google.com/store/apps/details?id=com.tylerwongj.RunPomRun
+- **Archive Status:** Found 1 archived snapshot from April 14, 2022
+- **Archived Page Result:** Page not found (404 error) - app was already removed by archive date
+- **Archive URL Attempted:** https://web.archive.org/web/20220414031742/https://play.google.com/store/apps/details?id=com.tylerwongj.RunPomRun
+- **Data Source:** No metrics available - app removed before successful archiving
 
 ## Technical Implementation
 - Built using Unity 3D engine

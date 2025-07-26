@@ -17,13 +17,20 @@ A hypercasual runner game where players navigate falling cars through obstacles.
 - Mobile-optimized performance
 
 ## Performance Metrics
-- **3,000+ Downloads** across iOS and Android platforms
+- **1,000+ Downloads** on Google Play Store (archived November 12, 2020)
+- **3.3/5 Star Rating** with 6 user reviews
+- **24MB Download Size**, Version 1.0.0
 - Published on both Google Play Store and Apple App Store
 
 ## Links & Media
 - **YouTube Trailer:** https://www.youtube.com/watch?v=_394LzU_zoc
 - **Google Play Store:** https://play.google.com/store/apps/details?id=com.tylerwongj.carfall3d
 - **Apple App Store:** *Available on iOS*
+
+## Wayback Machine Archives
+- **Archived Google Play Store Page:** https://web.archive.org/web/20201112225308/https://play.google.com/store/apps/details?id=com.tylerwongj.carfall3d
+- **Archive Date:** November 12, 2020
+- **Data Source:** Wayback Machine historical snapshot used for performance metrics
 
 ## Technical Implementation
 - Built using Unity 3D engine

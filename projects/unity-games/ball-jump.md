@@ -45,6 +45,7 @@ A hypercasual jumping game where players control a ball navigating through vario
 ## Assets Location
 - **Logo:** Available in assets folder
 - **Feature Graphic:** Available in assets folder
+- **Screenshots:** Not available (removed due to incorrect content)
 
 ## Professional Context
 This project demonstrates:

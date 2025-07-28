@@ -28,7 +28,7 @@ A hypercasual runner game where players navigate falling cars through obstacles.
 - **Apple App Store:** *Available on iOS*
 
 ## Wayback Machine Archives
-- **Archived Google Play Store Page:** https://web.archive.org/web/20201112225308/https://play.google.com/store/apps/details?id=com.tylerwongj.carfall3d
+- **Archived Google Play Store Page:** https://web.archive.org/web/20201112020722/https://play.google.com/store/apps/details?id=com.tylerwongj.carfall3d
 - **Archive Date:** November 12, 2020
 - **Data Source:** Wayback Machine historical snapshot used for performance metrics
 

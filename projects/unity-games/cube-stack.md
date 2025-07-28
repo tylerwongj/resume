@@ -45,6 +45,7 @@ A hypercasual stacking game where players must carefully stack cubes to build to
 ## Assets Location
 - **Logo:** Available in assets folder
 - **Feature Graphic:** Available in assets folder
+- **Screenshots:** Not available (removed due to incorrect content)
 
 ## Professional Context
 This project demonstrates:

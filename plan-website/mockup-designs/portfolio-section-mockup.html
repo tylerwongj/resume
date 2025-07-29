@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tyler Wong - Portfolio Section Mockup</title>
+    <style>
+        :root {
+            /* Tyler's Eye-Friendly Color Scheme */
+            --bg-primary: #1e1e1e;
+            --bg-secondary: #2d2d2d;
+            --bg-tertiary: #383838;
+            --bg-card: #252525;
+            
+            --txt-primary: #e8e8e8;
+            --txt-secondary: #c0c0c0;
+            --txt-muted: #909090;
+            
+            --acc-blue: #4a9eff;
+            --acc-green: #5cb85c;
+            --acc-red: #d9534f;
+            
+            --border-default: #404040;
+            --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.4);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            background: var(--bg-primary);
+            color: var(--txt-primary);
+        }
+
+        .portfolio-section {
+            padding: 4rem 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .section-title {
+            text-align: center;
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 3rem;
+            color: var(--txt-primary);
+        }
+
+        .project-grid {
+            display: grid;
+            gap: 4rem;
+        }
+
+        .project-card {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 3rem;
+            align-items: center;
+            background: var(--bg-card);
+            border-radius: 12px;
+            padding: 2.5rem;
+            box-shadow: var(--shadow-md);
+            border: 1px solid var(--border-default);
+        }
+
+        .project-card:nth-child(even) {
+            direction: rtl;
+        }
+
+        .project-card:nth-child(even) .project-content {
+            direction: ltr;
+        }
+
+        .project-content h3 {
+            font-size: 1.75rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--txt-primary);
+        }
+
+        .project-metrics {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .metric-badge {
+            background: var(--acc-blue);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 16px;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
+        .metric-badge.downloads {
+            background: var(--acc-green);
+        }
+
+        .metric-badge.rating {
+            background: var(--acc-red);
+        }
+
+        .project-description {
+            color: var(--txt-secondary);
+            margin-bottom: 1.5rem;
+            line-height: 1.7;
+        }
+
+        .tech-stack {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .tech-item {
+            background: var(--bg-tertiary);
+            color: var(--txt-secondary);
+            padding: 0.4rem 0.8rem;
+            border-radius: 6px;
+            font-size: 0.85rem;
+        }
+
+        .project-cta {
+            display: inline-block;
+            background: var(--acc-blue);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .project-cta:hover {
+            background: #3a8eef;
+            transform: translateY(-2px);
+        }
+
+        .project-visual {
+            background: var(--bg-secondary);
+            border-radius: 8px;
+            padding: 1.5rem;
+            border: 1px solid var(--border-default);
+        }
+
+        .screenshot-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .screenshot-placeholder {
+            aspect-ratio: 16/9;
+            background: linear-gradient(45deg, var(--bg-tertiary), var(--bg-primary));
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--txt-muted);
+            font-size: 0.8rem;
+        }
+
+        .video-placeholder {
+            aspect-ratio: 16/9;
+            background: linear-gradient(135deg, var(--acc-blue), var(--acc-green));
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 500;
+        }
+
+        @media (max-width: 768px) {
+            .project-card {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+                padding: 2rem;
+            }
+            
+            .project-card:nth-child(even) {
+                direction: ltr;
+            }
+            
+            .section-title {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <section class="portfolio-section">
+        <h2 class="section-title">My Work</h2>
+        
+        <div class="project-grid">
+            <!-- Car Fall 3D -->
+            <div class="project-card">
+                <div class="project-content">
+                    <h3>CAR FALL 3D</h3>
+                    <div class="project-metrics">
+                        <span class="metric-badge downloads">1,000+ Downloads</span>
+                        <span class="metric-badge rating">3.3/5 Stars</span>
+                        <span class="metric-badge">24MB</span>
+                    </div>
+                    <p class="project-description">
+                        Navigate falling cars through obstacles with simple one-touch controls. 
+                        A hypercasual runner game featuring physics-based mechanics and endless gameplay.
+                    </p>
+                    <div class="tech-stack">
+                        <span class="tech-item">Unity 3D</span>
+                        <span class="tech-item">C#</span>
+                        <span class="tech-item">Mobile</span>
+                        <span class="tech-item">Physics</span>
+                    </div>
+                    <a href="#" class="project-cta">View Project</a>
+                </div>
+                <div class="project-visual">
+                    <div class="screenshot-grid">
+                        <div class="screenshot-placeholder">Screenshot 1</div>
+                        <div class="screenshot-placeholder">Screenshot 2</div>
+                        <div class="screenshot-placeholder">Screenshot 3</div>
+                        <div class="screenshot-placeholder">Screenshot 4</div>
+                    </div>
+                    <div class="video-placeholder">▶ YouTube Trailer</div>
+                </div>
+            </div>
+
+            <!-- Puzzle Split -->
+            <div class="project-card">
+                <div class="project-content">
+                    <h3>PUZZLE SPLIT</h3>
+                    <div class="project-metrics">
+                        <span class="metric-badge downloads">10+ Downloads</span>
+                        <span class="metric-badge">15MB</span>
+                        <span class="metric-badge">V1.0.0</span>
+                    </div>
+                    <p class="project-description">
+                        Strategic multi-player puzzle game where you control multiple characters 
+                        simultaneously to cross every path and fill all roads.
+                    </p>
+                    <div class="tech-stack">
+                        <span class="tech-item">Unity 3D</span>
+                        <span class="tech-item">C#</span>
+                        <span class="tech-item">Grid-Based</span>
+                        <span class="tech-item">Multi-Control</span>
+                    </div>
+                    <a href="#" class="project-cta">View Project</a>
+                </div>
+                <div class="project-visual">
+                    <div class="screenshot-grid">
+                        <div class="screenshot-placeholder">Puzzle Mechanics</div>
+                        <div class="screenshot-placeholder">Multi-Player Control</div>
+                        <div class="screenshot-placeholder">Level Design</div>
+                        <div class="screenshot-placeholder">Game UI</div>
+                    </div>
+                    <div class="video-placeholder">▶ YouTube Trailer</div>
+                </div>
+            </div>
+
+            <!-- Burn Destructible Art -->
+            <div class="project-card">
+                <div class="project-content">
+                    <h3>BURN DESTRUCTIBLE ART</h3>
+                    <div class="project-metrics">
+                        <span class="metric-badge downloads">10+ Downloads</span>
+                        <span class="metric-badge">11MB</span>
+                        <span class="metric-badge">Art & Design</span>
+                    </div>
+                    <p class="project-description">
+                        Simple art tool where users can create and interact with digital artwork. 
+                        Focuses on therapeutic and creative aspects of digital creation and destruction.
+                    </p>
+                    <div class="tech-stack">
+                        <span class="tech-item">Unity 3D</span>
+                        <span class="tech-item">C#</span>
+                        <span class="tech-item">Art Tool</span>
+                        <span class="tech-item">Interactive</span>
+                    </div>
+                    <a href="#" class="project-cta">View Project</a>
+                </div>
+                <div class="project-visual">
+                    <div class="screenshot-grid">
+                        <div class="screenshot-placeholder">Drawing Interface</div>
+                        <div class="screenshot-placeholder">Art Creation</div>
+                        <div class="screenshot-placeholder">Destruction Tools</div>
+                        <div class="screenshot-placeholder">Creative Mode</div>
+                    </div>
+                    <div class="video-placeholder">🎨 Art Demo</div>
+                </div>
+            </div>
+
+            <!-- TruPlay Games Professional Work -->
+            <div class="project-card">
+                <div class="project-content">
+                    <h3>TRUPLAY GAMES PLATFORM</h3>
+                    <div class="project-metrics">
+                        <span class="metric-badge">Aug 2023 - Present</span>
+                        <span class="metric-badge">Unity Platform Engineer</span>
+                    </div>
+                    <p class="project-description">
+                        Innovating and implementing new game mechanics and features, 
+                        collaborating with teams, and optimizing performance for mobile game platforms.
+                    </p>
+                    <div class="tech-stack">
+                        <span class="tech-item">Unity 3D</span>
+                        <span class="tech-item">C#</span>
+                        <span class="tech-item">Game Design</span>
+                        <span class="tech-item">Performance</span>
+                        <span class="tech-item">Team Collaboration</span>
+                    </div>
+                    <a href="#" class="project-cta">View Details</a>
+                </div>
+                <div class="project-visual">
+                    <div class="screenshot-grid">
+                        <div class="screenshot-placeholder">Platform Interface</div>
+                        <div class="screenshot-placeholder">Game Mechanics</div>
+                        <div class="screenshot-placeholder">Performance Tools</div>
+                        <div class="screenshot-placeholder">Team Features</div>
+                    </div>
+                    <div class="video-placeholder">🏢 Professional Work</div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
